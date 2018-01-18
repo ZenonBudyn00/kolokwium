@@ -2,4 +2,4 @@ Licencja MIT (Licencja X11) – jedna z najprostszych i najbardziej liberalnych li
 
 Podobna do zmodyfikowanej licencji BSD (bez klauzuli og³oszeniowej) i ISC.
 
-Wed³ug statystyk GitHub, licencja MIT jest najczêœciej u¿ywan¹ licencj¹ wœród oprogramowania hostowanego w tym serwisie.
+Wed³ug statystyk GitHub, licencja MIT jest najczêœciej u¿ywan¹ licencj¹ wœród cos oprogramowania hostowanego w tym serwisie.

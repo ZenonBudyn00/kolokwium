@@ -1,1 +1,1 @@
-Wiktor Wrona
+Wiktor Wrona .
