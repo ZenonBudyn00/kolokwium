@@ -55,7 +55,6 @@ bool lusolve(int n, double ** A, double * B, double * X)
 
     for(j = i + 1; j < n; j++) s += A[i][j] * X[j];
 
-    if(fabs(A[i][i]) < eps) return false;
 
     X[i] = (X[i] - s) / A[i][i];
   }

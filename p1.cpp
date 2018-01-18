@@ -45,8 +45,6 @@ string dodaj(string & x, string & y)
     z = (char)((w % 10) + 48) + z;
   }
 
-  if(p) z = (char)(p + 48) + z;
-
   if(z == "") z = "0";
 
   return z;  // zwracamy wynik dodawania
