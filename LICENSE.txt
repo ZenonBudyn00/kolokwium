@@ -1,0 +1,5 @@
+Licencja MIT (Licencja X11) – jedna z najprostszych i najbardziej liberalnych licencji otwartego oprogramowania. Daje u¿ytkownikom nieograniczone prawo do u¿ywania, kopiowania, modyfikowania i rozpowszechniania (w tym sprzeda¿y) oryginalnego lub zmodyfikowanego programu w postaci binarnej lub Ÿród³owej. Jedynym wymaganiem jest, by we wszystkich wersjach zachowano warunki licencyjne i informacje o autorze.
+
+Podobna do zmodyfikowanej licencji BSD (bez klauzuli og³oszeniowej) i ISC.
+
+Wed³ug statystyk GitHub, licencja MIT jest najczêœciej u¿ywan¹ licencj¹ wœród oprogramowania hostowanego w tym serwisie.
